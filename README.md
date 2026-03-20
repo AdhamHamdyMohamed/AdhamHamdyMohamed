@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adham Hamdy El Diasty</h1>
-<h3 align="center">Frontend Developer | Co-Founder @ Spider Tech</h3>
+<h3 align="center">Front-End Developer (React.js) | MVP Builder | AI-Powered Web Products</h3>
 
 <p align="center">
 Passionate about building modern, scalable, and user-friendly web applications.
