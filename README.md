@@ -8,7 +8,7 @@ Currently expanding into Full-Stack Development and Gen AI Integration.
 
 ---
 
-- 🔭 I’m currently working as a **Co-Founder at Spider Tech Startup**
+- 🔭 I’m currently working as a **Front-End Developer at Spider Tech Startup**
 - 🌱 I’m currently learning **Generative AI & Full-Stack Development**
 - 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, React, Next.js**
 - 📫 Reach me at: **adham.hamdy.eldiasty@gmail.com**
