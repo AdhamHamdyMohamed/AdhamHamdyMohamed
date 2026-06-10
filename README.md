@@ -12,7 +12,7 @@ Currently expanding into Full-Stack Development and Gen AI Integration.
 - 🌱 I’m currently learning **Generative AI & Full-Stack Development**
 - 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, React, Next.js**
 - 📫 Reach me at: **adham.hamdy.eldiasty@gmail.com**
-- 📄 Check out my experience: [View CV](https://drive.google.com/file/d/1rswb2t4YDQpu7p0A2QiJS1u8IgBb0S1w/view?usp=sharing)
+- 📄 Check out my experience: [View CV](https://drive.google.com/file/d/1HqflO7G47sSBR3zGKTRnnWODIIZKkBhg/view?usp=sharing)
 
 ---
 
